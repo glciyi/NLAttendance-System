@@ -12,6 +12,9 @@ export default {
   data () {
     return {
       btn : '按钮'
+
+
+      
     }
   },
   methods : {
